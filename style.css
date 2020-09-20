@@ -1,0 +1,157 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+nav{
+    width:100% ;
+    background-color: rgb(10, 10, 32);
+    height: 50px;
+    text-align: center;
+}
+
+#amazon_logo{
+    height:30px;
+    border-radius: 10px;
+    background-color:rgb(2, 2, 32) ;
+    margin-top: 10px;
+}
+
+.main_content{
+    background-color: rgb(19, 19, 19);
+}
+
+#imgsecid{
+    width: 40%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    height: max-content;  
+}
+
+#watch_img{
+    height: 500px;   
+}
+
+
+.info_class{
+    width:60%;
+    float: left;
+    background-color: rgb(255, 255, 255);
+}
+
+.colour_tab{
+    background-color: rgb(255, 255, 255);
+      width: 100%;
+      background-color: rgb(255, 255, 255);
+      padding: 1px;
+    }
+
+
+.button{
+    
+    width: 50px;
+    height: 50px;
+    margin: 6px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border: none;
+   
+    
+    }
+    #Black{
+        margin-left: 0px;
+        background-color:black;
+        
+    }
+
+    #Red{
+        background-color:rgb(167, 0, 0);
+
+    }
+
+    #Blue{
+        background-color:rgb(22, 0, 148);
+
+    }
+    #White{
+        background-color:rgb(255, 157, 206);
+    }
+
+
+.Features_sec{
+    margin-top: 30px;
+}
+
+
+.Fbtn{
+    width:90px;
+    height: 30px;
+    margin: 2px;
+    border: none;
+    background-color: rgba(121, 121, 121, 0.39);
+}
+
+
+.BuyButton {
+    margin-top: 50px;
+    
+}
+
+#Buynow{
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: rgb(230, 168, 0);
+    font-size: 20px;
+    border: none;
+}
+
+.T{
+    position: absolute;
+    top: 270px;
+    left: 160px;
+    width: 170px;
+    height: 35px;
+    background-color: rgba(0, 0, 0, 0);
+    visibility: visible;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+
+
+.H{
+    position: absolute;
+    top: 200px;
+    left: 160px;
+    width: 170px;
+    height: 180px;
+    background-color: rgba(0, 0, 0, 0);
+    text-align: center;
+    visibility: hidden;
+}
+.hrtbg{
+    
+    height: 90px;
+}
+
+#heart_img{
+    height: 70px;
+    margin-top: 5px;
+ 
+    
+    
+}
+
+#pulse{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
